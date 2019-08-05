@@ -16,8 +16,8 @@ This repo is developed for the deep learning boot camp of Joblogic-X professiona
 3. Basic layers of Neural Network
 
 ### Predictive modeling using neural network
-1. [MINST data set](kaggle digit recognizer)
-2. [Hand written digits recognition using deep neural network](kaggle digit recognizer)
+1. [MINST data set](https://www.kaggle.com/ngbolin/mnist-dataset-digit-recognizer)
+2. [Hand written digits recognition using deep neural network](https://www.kaggle.com/ngbolin/mnist-dataset-digit-recognizer)
 
 ### Neural network and computer vision
 1. [ImageNet](http://image-net.org)
