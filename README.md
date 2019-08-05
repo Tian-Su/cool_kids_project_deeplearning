@@ -52,4 +52,4 @@ A simple and fun project to get a taste of deep learning.
 
 
 
-## Project work Meet Fresh snack recognition 
+## Meet Fresh snack recognition 
